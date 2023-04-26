@@ -1,2 +1,2 @@
 # qh0426
-problem solving through programming
+University work for QH0426-problem solving through programming
